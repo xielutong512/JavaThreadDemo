@@ -1,8 +1,5 @@
 package com.xielutong.study.test;
 
-import org.omg.Messaging.SyncScopeHelper;
-
-import com.xielutong.study.thread.MyThread28;
 import com.xielutong.study.thread.MyThread29;
 
 /**
